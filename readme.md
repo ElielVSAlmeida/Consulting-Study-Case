@@ -9,6 +9,7 @@ Changing it from *Order to Delivery to Cash* to *Order to Payment to Delivery* o
 With a 2020 percentual revenue growth going with worst by month than 2018:
 
 ![alt text](https://github.com/ElielVSAlmeida/Consulting-Study-Case/blob/main/vizualization/percent_2018.png)
+
 And also going even worst for 2019:
 
 ![alt text](https://github.com/ElielVSAlmeida/Consulting-Study-Case/blob/main/vizualization/percent_2019.png)
